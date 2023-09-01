@@ -1,0 +1,36 @@
+.container{
+    margin-bottom:100px;
+    width:75%;
+}
+.container-fluid{
+    background:white;
+}
+.nav-link{
+    color:black;
+    font-weight: 700;
+}
+.orange-bg{
+    background-image: linear-gradient(to right,#023047,#023047);
+}
+.carousel-item{
+    color:white;
+    padding: 20px 70px;
+}
+.btn-link{
+    color:white;
+}
+.smartphone{
+    margin-top:100px;
+    width:100%;
+}
+ .s-text{
+    margin-top:100px;
+}
+.s-text h2 a{
+    color:orangered;
+    text-decoration: none;
+}
+.price{
+    padding:2px 20px;
+    font-weight: 700;
+}
